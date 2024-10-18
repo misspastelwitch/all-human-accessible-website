@@ -1,25 +1,17 @@
 # Accessible Website
 
-Ontwerp en maak voor een opdrachtgever een component/pagina/site toegankelijk volgens WCAG richtlijnen.
+Mijn site die zo veel mogelijk toegankelijk volgens WCAG richtlijnen is.
 
 De instructie van deze leertaak staat in [INSTRUCTIONS](https://github.com/fdnd-task/all-human-accessible-website/blob/main/docs/INSTRUCTIONS.md)
 
-## Inhoudsopgave
-
-  * [Beschrijving](#beschrijving)
-  * [Kenmerken](#kenmerken)
-  * [Bronnen](#bronnen)
-  * [Licentie](#licentie)
 
 ## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
+
+Dit is een continu van mijn project met de Antoni van Leeuwenhoek Ziekenhuis om een webinar pagina te maken waar mensen videos kunnen kijken, comments achterlaten en artiekelen kunnen lezen. De link staat in de descriptie van deze pagina!
 
 ## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
 
-## Bronnen
+Ik heb een handmatige test gedaan om mijn eerdere pagina te testen. Voor dit heb ik [deze checklist](https://www.a11yproject.com/checklist/) gebruikt. Daarna heb ik mijn code aangepast zodat het aan meer van de richtlijnen voldoet. Ik heb ook een TAB test en een ScreenReader test gedaan om zeker te weten dat het (bijna) volledig gebruikbaar is.
 
 ## Licentie
 This project is licensed under the terms of the [MIT license](./LICENSE).
