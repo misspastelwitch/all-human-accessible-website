@@ -11,7 +11,7 @@ Dit is een continu van mijn project met de Antoni van Leeuwenhoek Ziekenhuis om 
 
 ## Kenmerken
 
-Ik heb een handmatige test gedaan om mijn eerdere pagina te testen. Voor dit heb ik [deze checklist](https://www.a11yproject.com/checklist/) gebruikt. Daarna heb ik mijn code aangepast zodat het aan meer van de richtlijnen voldoet. Ik heb ook een TAB test en een ScreenReader test gedaan om zeker te weten dat het (bijna) volledig gebruikbaar is.
+Ik heb een handmatige test gedaan om mijn eerdere pagina te testen. Voor dit heb ik [deze checklist](https://www.a11yproject.com/checklist/) gebruikt. Daarna heb ik mijn code aangepast zodat het aan meer van de richtlijnen voldoet. Ik heb ook een TAB test en een ScreenReader test gedaan. Tot nu is het niet perfect maar ik wil in Week 2 meer werken om zeker te weten dat het (bijna) volledig gebruikbaar is.
 
 ## Licentie
 This project is licensed under the terms of the [MIT license](./LICENSE).
